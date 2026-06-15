@@ -46,6 +46,17 @@ def summarize_kata_usage(df: pd.DataFrame, group_cols: list[str] | None = None) 
 
     summary["win_rate"] = summary["wins"] / summary["performances"] * 100
 
+    prior_games = 20
+
+    global_win_rate = summary["wins"].sum() / summary["performances"].sum()
+    prior_wins = global_win_rate * prior_games
+
+    summary["adjusted_win_rate"] = (
+            (summary["wins"] + prior_wins)
+            / (summary["performances"] + prior_games)
+            * 100
+    )
+
     return summary.sort_values(
         group_cols + ["performances", "win_rate"],
         ascending=[True] * len(group_cols) + [False, False],

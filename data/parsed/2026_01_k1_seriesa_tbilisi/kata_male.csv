@@ -1,0 +1,257 @@
+player_name,player_id,kata_nr,kata_name,winner,tournament_id,category,source_file
+STASSIAUX MAHEL,60541,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BAKIROV VARISHAN,46656,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MORLEY GEORGE,90069,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+POLSINELLI GUIDO,77875,091,Sochin,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+WU TIMON,39597,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+LAM JASON,90016,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+GENDES DAVID,82724,061,Nipaipo,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MACKIE GRAHAM,34674,008,Chatanyara Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MKHITARYAN MIKHAYIL,19737,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ÖZDEMIR MEHMET BATUHAN,94993,091,Sochin,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MARTIN MONTENEGRO IVAN,41910,063,Ohan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FUNADA AOI,37817,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+URAZALIYEV SAMANDAR,59739,063,Ohan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHIU CHUN YIN,51524,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+COSCI GIUSEPPE,32037,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SEMENENKO NIKITA,48943,041,Kanku Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BAKIROV VARISHAN,46656,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+POLSINELLI GUIDO,77875,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+WU TIMON,39597,009,Chibana No Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+GENDES DAVID,82724,002,Anan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ÖZDEMIR MEHMET BATUHAN,94993,015,Gankaku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FUNADA AOI,37817,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHIU CHUN YIN,51524,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SEMENENKO NIKITA,48943,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+POLSINELLI GUIDO,77875,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+GENDES DAVID,82724,008,Chatanyara Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FUNADA AOI,37817,098,Unshu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHIU CHUN YIN,51524,098,Unshu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+POLSINELLI GUIDO,77875,009,Chibana No Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FUNADA AOI,37817,009,Chibana No Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NOUR MAURIS LORICK,45889,092,Suparinpei,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+VIEIRA JOÃO,51424,047,Kururunfa,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ALDBASI SAQR,16768,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MISCHLER KEVIN,90195,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ANTSIMONIK IVAN,83944,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAPPALARDO VINCENZO,95272,041,Kanku Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BESBADEM ENES SAD,8215,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NADIMIGHASROLDASHT ALIREZA,63356,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PANAGIA GIUSEPPE,83346,041,Kanku Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+LOUIS SERB,54817,041,Kanku Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FONG MAN HOU,18404,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+STRAUB FABIAN,37591,041,Kanku Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+LÁSZLÓ SAMU,70886,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KASPRZYK BARTOSZ,28377,009,Chibana No Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+VIEIRA JOÃO,51424,001,Anan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ALDBASI SAQR,16768,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAPPALARDO VINCENZO,95272,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NADIMIGHASROLDASHT ALIREZA,63356,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PANAGIA GIUSEPPE,83346,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FONG MAN HOU,18404,002,Anan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KASPRZYK BARTOSZ,28377,064,Ohan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HARRISON JAMES,27233,002,Anan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ALDBASI SAQR,16768,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAPPALARDO VINCENZO,95272,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FONG MAN HOU,18404,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HARRISON JAMES,27233,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAPPALARDO VINCENZO,95272,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FONG MAN HOU,18404,008,Chatanyara Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ZAND ALI,95235,063,Ohan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HUSSAIN MOHAMMAD,10560,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KASHFIRAD KIYAN,90821,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHKHAIDZE GIORGI,83525,047,Kururunfa,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+LEVI ELDAR,61131,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MARSDEN HARRY,51771,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+RAHBARIFAR ALI,95151,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NOEL ARTHUR,90139,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FEDOROV YAROSLAV,37165,047,Kururunfa,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ZOECHLING FLORIAN,56811,008,Chatanyara Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MATACCHIONI LUIGI,82600,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HUNG HO WAI HOWARD,55490,063,Ohan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HASSAN AHMED,95137,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MORENO-DOMONT MATIAS,90154,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HUSSAIN MOHAMMAD,10560,012,Enpi,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHKHAIDZE GIORGI,83525,092,Suparinpei,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MARSDEN HARRY,51771,001,Anan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NOEL ARTHUR,90139,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FEDOROV YAROSLAV,37165,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HUNG HO WAI HOWARD,55490,064,Ohan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MORENO-DOMONT MATIAS,90154,064,Ohan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BANDALETAU SIARHEI,95307,063,Ohan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HUSSAIN MOHAMMAD,10560,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NOEL ARTHUR,90139,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HUNG HO WAI HOWARD,55490,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MORENO-DOMONT MATIAS,90154,092,Suparinpei,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NOEL ARTHUR,90139,041,Kanku Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HUNG HO WAI HOWARD,55490,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ARNONE FEDERICO,72101,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ZLABEK JAKUB,23362,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+RELIĆ MATIJA,73584,047,Kururunfa,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KOURSARIS DIMITRIOS CHRISTOS,68503,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MOEINADDINI AMIRHASSAN,83376,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CARUANA ANTHONY,83395,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ALGHUMGHAM FADIL,94962,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SONNEMA RICK,74707,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CAM EMRE FERHAT,95295,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SALMANOV SALMAN,48449,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+D ANGELO ALEXIS,95174,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HEARN NAT,53534,041,Kanku Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MEDINA DAVID,94849,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SERRA CRISTIAN,24465,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ARNONE FEDERICO,72101,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+RELIĆ MATIJA,73584,064,Ohan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MOEINADDINI AMIRHASSAN,83376,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SONNEMA RICK,74707,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CAM EMRE FERHAT,95295,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+D ANGELO ALEXIS,95174,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SERRA CRISTIAN,24465,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TOZAKI TAISHI,33627,064,Ohan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ARNONE FEDERICO,72101,012,Enpi,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MOEINADDINI AMIRHASSAN,83376,015,Gankaku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CAM EMRE FERHAT,95295,015,Gankaku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TOZAKI TAISHI,33627,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MOEINADDINI AMIRHASSAN,83376,041,Kanku Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TOZAKI TAISHI,33627,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CALABRESE FILIPPO,49263,041,Kanku Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARNES DYLAN,71733,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ISA CHEON,50914,063,Ohan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+JAYASINGHE THARINDU,78740,064,Ohan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+D ONGHIA ENZO,60964,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KIM MINJAE,94913,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SANTOS DIOGO,51418,001,Anan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KOWALCZYK MACIEJ,94332,041,Kanku Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+GRAZIA MANUEL,83499,063,Ohan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BERGER JONA,70853,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARDOS ADAM,32214,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KUTABA VICTOR,61778,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NENDAI KAIRI,90153,061,Nipaipo,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHEANG PEI LOK,39864,063,Ohan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARNES DYLAN,71733,047,Kururunfa,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ISA CHEON,50914,008,Chatanyara Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KIM MINJAE,94913,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KOWALCZYK MACIEJ,94332,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+GRAZIA MANUEL,83499,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARDOS ADAM,32214,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NENDAI KAIRI,90153,002,Anan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BEN YOUSEF HUSAIN,90987,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ISA CHEON,50914,064,Ohan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KIM MINJAE,94913,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARDOS ADAM,32214,008,Chatanyara Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NENDAI KAIRI,90153,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ISA CHEON,50914,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NENDAI KAIRI,90153,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CAPONERA EMANUELE,95008,063,Ohan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NGUYEN TOAN,59687,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SUTIAGIN KONSTANTIN,26134,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ELHABASHI MAHMOUD,51297,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CODES JULIEN,90167,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SOKOLOV HLIB,64997,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+STELCL ADAM,95297,002,Anan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NOREYKO KIRILL,95304,091,Sochin,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BOŠKOV ALEKSANDAR,60727,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TANG YU HIN,1579,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ELMOWAFI ABDELRAHMAN,57673,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BAHMANJAH JAVID,83897,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CAPONERA EMANUELE,95008,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SUTIAGIN KONSTANTIN,26134,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CODES JULIEN,90167,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+STELCL ADAM,95297,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ELMOWAFI ABDELRAHMAN,57673,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+DURAN KUTLUHAN,18920,091,Sochin,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CAPONERA EMANUELE,95008,064,Ohan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+STELCL ADAM,95297,064,Ohan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+UEDA KENJI,95289,008,Chatanyara Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+DURAN KUTLUHAN,18920,041,Kanku Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CAPONERA EMANUELE,95008,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+DURAN KUTLUHAN,18920,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BUISSON MATTÉO,95266,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TELLOCKE MORRIS,83560,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARTA ROLAND BOTOND,62833,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MAHMOUDI AHMAD REZA,95150,092,Suparinpei,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+DOGAN AZIZ,81409,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TIUKH MYKYTA,28342,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BAREIKA MAKSIM,88847,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+WAGNER FELIX,57338,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PETRONE LEANDRO,66223,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+IODICE ALESSANDRO,32834,012,Enpi,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+LI CHI KONG,83880,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAGOT ALEXANDER,13085,061,Nipaipo,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ABOANZA ABDULLA,73729,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+OLIVEIRA MARTIM,40666,064,Ohan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TELLOCKE MORRIS,83560,061,Nipaipo,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARTA ROLAND BOTOND,62833,078,Sansai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TIUKH MYKYTA,28342,063,Ohan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+WAGNER FELIX,57338,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+IODICE ALESSANDRO,32834,041,Kanku Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAGOT ALEXANDER,13085,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ABOANZA ABDULLA,73729,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ALEXANDRU NICOLAS MODI,90094,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TELLOCKE MORRIS,83560,064,Ohan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TIUKH MYKYTA,28342,001,Anan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAGOT ALEXANDER,13085,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ABOANZA ABDULLA,73729,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TELLOCKE MORRIS,83560,009,Chibana No Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAGOT ALEXANDER,13085,083,Seipai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PARLAK OZAN,94992,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+EMAMI KOUPAEI MOHAMMADHOSSEIN,84524,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHEANG SI LOK,72710,063,Ohan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BENGHOUBA TAREK,95287,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MONOI SENA,90795,047,Kururunfa,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MOSCATELLI SAMUELE,32145,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KACHESOV GEORGII,95294,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FILEŠ MARK,68518,078,Sansai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BECKERS MITCHELL,51975,064,Ohan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+LAZKANI SUHAIB,94876,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+SPRONCK ARNAUD,19480,001,Anan,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+POHL FILIP,51493,047,Kururunfa,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MARKESINIS LAMPRINOS MARIOS,51230,041,Kanku Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+WILSON JACK,34553,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+EMAMI KOUPAEI MOHAMMADHOSSEIN,84524,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHEANG SI LOK,72710,064,Ohan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MOSCATELLI SAMUELE,32145,091,Sochin,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+KACHESOV GEORGII,95294,009,Chibana No Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+LAZKANI SUHAIB,94876,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+POHL FILIP,51493,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+WILSON JACK,34553,064,Ohan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ALMOSAWI SAYED MOHAMMED,3830,020,Gojushiho Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+EMAMI KOUPAEI MOHAMMADHOSSEIN,84524,041,Kanku Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MOSCATELLI SAMUELE,32145,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+POHL FILIP,51493,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ALMOSAWI SAYED MOHAMMED,3830,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MOSCATELLI SAMUELE,32145,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+POHL FILIP,51493,064,Ohan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FUNADA AOI,37817,008,Chatanyara Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAPPALARDO VINCENZO,95272,060,Nijushiho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+HUNG HO WAI HOWARD,55490,009,Chibana No Kushanku,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TOZAKI TAISHI,33627,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NENDAI KAIRI,90153,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+DURAN KUTLUHAN,18920,099,Unsu,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAGOT ALEXANDER,13085,068,Papuren,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MOSCATELLI SAMUELE,32145,078,Sansai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FUNADA AOI,37817,092,Suparinpei,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TOZAKI TAISHI,33627,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NENDAI KAIRI,90153,001,Anan,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAGOT ALEXANDER,13085,061,Nipaipo,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+FUNADA AOI,37817,008,Chatanyara Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+NENDAI KAIRI,90153,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MARTIN MONTENEGRO IVAN,41910,009,Chibana No Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ÖZDEMIR MEHMET BATUHAN,94993,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+MARTIN MONTENEGRO IVAN,41910,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHIU CHUN YIN,51524,009,Chibana No Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHIU CHUN YIN,51524,008,Chatanyara Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+POLSINELLI GUIDO,77875,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHIU CHUN YIN,51524,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAPPALARDO VINCENZO,95272,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAPPALARDO VINCENZO,95272,020,Gojushiho Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+TOZAKI TAISHI,33627,064,Ohan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHEANG PEI LOK,39864,009,Chibana No Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BEN YOUSEF HUSAIN,90987,021,Gojushiho Sho,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+CHEANG PEI LOK,39864,002,Anan Dai,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARDOS ADAM,32214,009,Chibana No Kushanku,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARDOS ADAM,32214,064,Ohan Dai,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+ISA CHEON,50914,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+BARDOS ADAM,32214,092,Suparinpei,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+DURAN KUTLUHAN,18920,021,Gojushiho Sho,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+DURAN KUTLUHAN,18920,099,Unsu,True,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html
+PAGOT ALEXANDER,13085,068,Papuren,False,2026_01_k1_seriesa_tbilisi,kata_male,2026_01_k1_seriesa_tbilisi\kata_male.html

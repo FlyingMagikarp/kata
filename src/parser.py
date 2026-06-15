@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 
 
 def parse_article_data(article):
+    if article.find('footer') is None:
+        return None
     if article.find('footer').find('strong').getText() == '':
         return None
     player_name = article.find('div', class_='player-info').find('div').find('strong').getText()

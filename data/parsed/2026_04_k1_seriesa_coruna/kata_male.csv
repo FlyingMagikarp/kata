@@ -1,0 +1,261 @@
+player_name,player_id,kata_nr,kata_name,winner,tournament_id,category,source_file
+UMEYAMA SEIYA,69308,012,Enpi,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MATACCHIONI LUIGI,82600,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+TIUKH MYKYTA,28342,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STOJAKOVIC GEORGE,73589,064,Ohan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+CAMBRONERO ALVARADO SERGIO,78931,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+DAHY ALI,67316,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LOZANO FERNÁNDEZ ANTONIO,49060,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SONNEMA RICK,74707,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+HARRISON JAMES,96093,008,Chatanyara Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+TELO LOPEZ GABRIEL,98081,009,Chibana No Kushanku,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GOKTAS EMRE VEFA,9678,091,Sochin,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STRAUB FABIAN,37591,041,Kanku Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NGUYEN TOAN,59687,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MEDINA DAVID,94849,009,Chibana No Kushanku,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+UMEYAMA SEIYA,69308,060,Nijushiho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+TIUKH MYKYTA,28342,001,Anan,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+DAHY ALI,67316,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LOZANO FERNÁNDEZ ANTONIO,49060,008,Chatanyara Kushanku,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WAGNER FELIX,57338,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+TELO LOPEZ GABRIEL,98081,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GOKTAS EMRE VEFA,9678,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MEDINA DAVID,94849,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+UMEYAMA SEIYA,69308,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LOZANO FERNÁNDEZ ANTONIO,49060,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+TELO LOPEZ GABRIEL,98081,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GOKTAS EMRE VEFA,9678,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LOZANO FERNÁNDEZ ANTONIO,49060,064,Ohan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GOKTAS EMRE VEFA,9678,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BERCZES BOTOND,41995,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PANAGIA GIUSEPPE,83346,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+KUTABA VICTOR,61778,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARKESINIS LAMPRINOS MARIOS,51230,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ALJOSEVIC BENJAMIN,56857,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MATHES MIKA,98117,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PARRA RAMIREZ MARIO,73136,012,Enpi,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BAREIKA MAKSIM,88847,002,Anan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MORENO-DOMONT MATIAS,90154,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PAGOT ALEXANDER,13085,061,Nipaipo,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MORALES DANIEL,90876,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NUNES RAFAEL,98252,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+TELLOCKE MORRIS,644,061,Nipaipo,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARTINS DE SOUZA FERNANDO,98416,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALLO GIANLUCA,26954,091,Sochin,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PANAGIA GIUSEPPE,83346,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARKESINIS LAMPRINOS MARIOS,51230,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MATHES MIKA,98117,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BAREIKA MAKSIM,88847,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PAGOT ALEXANDER,13085,083,Seipai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NUNES RAFAEL,98252,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BUISSON MATTÉO,95266,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALLO GIANLUCA,26954,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARKESINIS LAMPRINOS MARIOS,51230,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MATHES MIKA,98117,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NUNES RAFAEL,98252,015,Gankaku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALLO GIANLUCA,26954,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MATHES MIKA,98117,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALLO GIANLUCA,26954,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GRAZIA MANUEL,76345,063,Ohan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SOKOLOV HLIB,64997,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ELEKES MÁTÉ,75822,002,Anan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+AGOSTINI LUIS,54852,064,Ohan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LØYTVED MARK,98067,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARTIN MONTENEGRO IVAN,41910,063,Ohan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+JAKOVLJEVIC VASILIJE,70852,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+RELIĆ MATIJA,73584,047,Kururunfa,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+DI RUBBA LUIGI,51689,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SCHOLES ALEX,76733,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+OLIVEIRA MARTIM,40666,002,Anan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ALJASSER IBRAHIM,98026,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BERGER JONA,49151,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NOUR MAURIS LORICK,45889,002,Anan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GRAZIA MANUEL,76345,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+AGOSTINI LUIS,54852,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARTIN MONTENEGRO IVAN,41910,002,Anan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+JAKOVLJEVIC VASILIJE,70852,041,Kanku Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+DI RUBBA LUIGI,51689,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+OLIVEIRA MARTIM,40666,008,Chatanyara Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NOUR MAURIS LORICK,45889,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ZOECHLING FLORIAN,56811,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+AGOSTINI LUIS,54852,009,Chibana No Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARTIN MONTENEGRO IVAN,41910,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+DI RUBBA LUIGI,51689,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NOUR MAURIS LORICK,45889,008,Chatanyara Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARTIN MONTENEGRO IVAN,41910,064,Ohan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+DI RUBBA LUIGI,51689,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SERRA CRISTIAN,24465,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ANDREI NEDELCU,53078,002,Anan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+KODAJ SIMON,30662,002,Anan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+KOCAN ARIJAN,7857,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+HADIZADEH JULIAN,54598,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BALBUENA CISNEROS SALVADOR,77868,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SZCZYPKOWSKI MAKSYMILIAN,83912,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STRÁNSKÝ JAN,54299,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MOSCATELLI SAMUELE,32145,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MIURA GONZALO,90879,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MORGADO TOMÁS,50774,001,Anan,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ELHABASHI MAHMOUD,51297,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LÜCK AIDAN RANDALL,91028,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+RABENIRINA FIARO,93325,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SERRA CRISTIAN,24465,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+KOCAN ARIJAN,7857,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BALBUENA CISNEROS SALVADOR,77868,067,Paiku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SZCZYPKOWSKI MAKSYMILIAN,83912,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MOSCATELLI SAMUELE,32145,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ELHABASHI MAHMOUD,51297,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LÜCK AIDAN RANDALL,91028,047,Kururunfa,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NENDAI KAIRI,90153,061,Nipaipo,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SERRA CRISTIAN,24465,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SZCZYPKOWSKI MAKSYMILIAN,83912,041,Kanku Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MOSCATELLI SAMUELE,32145,015,Gankaku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NENDAI KAIRI,90153,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SERRA CRISTIAN,24465,012,Enpi,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NENDAI KAIRI,90153,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SLUGA JURE,32298,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ARNONE FEDERICO,72101,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BEJA DA COSTA DIOGO,90074,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BARTA ROLAND BOTOND,98124,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ARACENA DURAN LARRY,9175,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+CAO CALVO PABLO,51976,002,Anan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BECKERS MITCHELL,51975,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GRGIĆ OZREN,84517,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PARABOSCHI MATTEO,77341,047,Kururunfa,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NASTASA ROBERT,47144,002,Anan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+VENES AFONSO,97714,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PARLAK OZAN,98055,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LÜCK ANDREW LYLE,98119,047,Kururunfa,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MANFREDINI HUGO,81747,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ARNONE FEDERICO,72101,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BEJA DA COSTA DIOGO,90074,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ARACENA DURAN LARRY,9175,008,Chatanyara Kushanku,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GRGIĆ OZREN,84517,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NASTASA ROBERT,47144,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PARLAK OZAN,98055,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MANFREDINI HUGO,81747,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+AMAYA GOMEZ HERNAN,32959,064,Ohan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BEJA DA COSTA DIOGO,90074,043,Kishimoto No Kushanku,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ARACENA DURAN LARRY,9175,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NASTASA ROBERT,47144,009,Chibana No Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+AMAYA GOMEZ HERNAN,32959,002,Anan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ARACENA DURAN LARRY,9175,043,Kishimoto No Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+AMAYA GOMEZ HERNAN,32959,068,Papuren,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WU TIMON,41917,068,Papuren,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SANDU ALEXANDRU,33563,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GENDES DAVID,82724,002,Anan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NIKOCEVIC KENAN,7920,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+KUNIYASU HARUAKI,76071,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PINHEIRO JUAN,73560,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+OLLAGNERO GIOVANNI SEBASTIAN,93819,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SCHEDEL KENI,30520,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PORTOGALLO MATTEO,70768,002,Anan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARSDEN HARRY,97981,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SANTOS DIOGO,51418,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PATTANASAKOO NAWAPON,28304,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MACKIE GRAHAM,34674,009,Chibana No Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WU TIMON,41917,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GENDES DAVID,82724,061,Nipaipo,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PINHEIRO JUAN,73560,063,Ohan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+OLLAGNERO GIOVANNI SEBASTIAN,93819,015,Gankaku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MARSDEN HARRY,97981,063,Ohan,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SANTOS DIOGO,51418,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PATTANASAKOO NAWAPON,28304,041,Kanku Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+CASANOVA GUERRERO CLEIVER,1737,091,Sochin,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WU TIMON,41917,064,Ohan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PINHEIRO JUAN,73560,064,Ohan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SANTOS DIOGO,51418,001,Anan,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+CASANOVA GUERRERO CLEIVER,1737,060,Nijushiho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+PINHEIRO JUAN,73560,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+CASANOVA GUERRERO CLEIVER,1737,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MONOI SENA,90795,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+EDERAR KARIM,75200,063,Ohan,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+FEDOROV YAROSLAV,37165,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STOWELL MASON,33999,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ORTIZ AQUINO JEFFERSONT,72683,064,Ohan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MIKKELSEN NICOLAS,98179,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALÁN LACÓN ALEJANDRO,52309,064,Ohan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BOŠKOV ALEKSANDAR,60727,041,Kanku Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+KUKIĆ IVAN,70986,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MORLEY GEORGE,97984,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+VIEIRA JOÃO,51424,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BEŞBADEM ENES SAD,57884,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LÜCK AARIC,90983,008,Chatanyara Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NOEL ARTHUR,78689,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+SZILAGYI GERGO,79293,001,Anan,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+POHL FILIP,51493,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MONOI SENA,90795,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STOWELL MASON,33999,064,Ohan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ORTIZ AQUINO JEFFERSONT,72683,008,Chatanyara Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALÁN LACÓN ALEJANDRO,52309,008,Chatanyara Kushanku,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+KUKIĆ IVAN,70986,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+VIEIRA JOÃO,51424,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NOEL ARTHUR,78689,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+POHL FILIP,51493,002,Anan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MONOI SENA,90795,083,Seipai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALÁN LACÓN ALEJANDRO,52309,009,Chibana No Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+VIEIRA JOÃO,51424,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NOEL ARTHUR,78689,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MONOI SENA,90795,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+VIEIRA JOÃO,51424,064,Ohan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALEOTTI THOMAS,70316,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ALEXANDRU NICOLAS MODI,90094,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MIKLOVICS DAMIAN,88578,066,Pachu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MILIC NIKOLA,7914,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GRIMM LUKAS,90838,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ALONSO CÉSPEDES HÉCTOR,64583,064,Ohan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+KOWALCZYK MACIEJ,94332,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MISCHLER KEVIN,90195,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+ROSIELLO GIUSEPPE,98205,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WONG ALFARO MARIANO,90196,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+FERNANDES DAVID,5219,001,Anan,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STELCL ADAM,95297,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BERNER LAURENZ,98114,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GREGOIRE LIAM,78447,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALEOTTI THOMAS,70316,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MIKLOVICS DAMIAN,88578,001,Anan,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GRIMM LUKAS,90838,047,Kururunfa,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+KOWALCZYK MACIEJ,94332,021,Gojushiho Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WONG ALFARO MARIANO,90196,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STELCL ADAM,95297,002,Anan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BERNER LAURENZ,98114,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BARDOS ADAM,32214,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALEOTTI THOMAS,70316,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GRIMM LUKAS,90838,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WONG ALFARO MARIANO,90196,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+BERNER LAURENZ,98114,041,Kanku Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALEOTTI THOMAS,70316,041,Kanku Sho,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WONG ALFARO MARIANO,90196,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GOKTAS EMRE VEFA,9678,041,Kanku Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALLO GIANLUCA,26954,015,Gankaku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+DI RUBBA LUIGI,51689,015,Gankaku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NENDAI KAIRI,90153,068,Papuren,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+AMAYA GOMEZ HERNAN,32959,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+CASANOVA GUERRERO CLEIVER,1737,012,Enpi,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MONOI SENA,90795,008,Chatanyara Kushanku,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WONG ALFARO MARIANO,90196,091,Sochin,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GOKTAS EMRE VEFA,9678,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NENDAI KAIRI,90153,009,Chibana No Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+AMAYA GOMEZ HERNAN,32959,009,Chibana No Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MONOI SENA,90795,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GOKTAS EMRE VEFA,9678,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MONOI SENA,90795,001,Anan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STRAUB FABIAN,37591,020,Gojushiho Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+MEDINA DAVID,94849,068,Papuren,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STRAUB FABIAN,37591,099,Unsu,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+TELO LOPEZ GABRIEL,98081,002,Anan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STRAUB FABIAN,37591,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+LOZANO FERNÁNDEZ ANTONIO,49060,009,Chibana No Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STRAUB FABIAN,37591,078,Sansai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALLO GIANLUCA,26954,021,Gojushiho Sho,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALLO GIANLUCA,26954,020,Gojushiho Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+NENDAI KAIRI,90153,068,Papuren,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+EDERAR KARIM,75200,064,Ohan Dai,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STOWELL MASON,33999,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STOWELL MASON,33999,002,Anan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+GALÁN LACÓN ALEJANDRO,52309,043,Kishimoto No Kushanku,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STOWELL MASON,33999,063,Ohan,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+VIEIRA JOÃO,51424,080,Sanseru,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STOWELL MASON,33999,092,Suparinpei,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+WONG ALFARO MARIANO,90196,099,Unsu,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+STOWELL MASON,33999,064,Ohan Dai,True,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
+AMAYA GOMEZ HERNAN,32959,092,Suparinpei,False,2026_04_k1_seriesa_coruna,kata_male,2026_04_k1_seriesa_coruna\kata_male.html
