@@ -31,7 +31,3 @@ env/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-
-# Project-specific data
-data/parsed/
-data/analysis/
