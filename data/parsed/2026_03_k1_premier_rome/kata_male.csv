@@ -1,0 +1,115 @@
+player_name,player_id,kata_nr,kata_name,winner,tournament_id,category,source_file
+OSHIGUCHI SYOTA,64266,068,Papuren,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOTO RYUJI,37096,021,Gojushiho Sho,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+PAPPALARDO VINCENZO,95272,099,Unsu,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+BARDOS ADAM,15880,092,Suparinpei,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOTO RYUJI,37096,012,Enpi,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+PAPPALARDO VINCENZO,95272,021,Gojushiho Sho,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OSHIGUCHI SYOTA,64266,092,Suparinpei,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+BARDOS ADAM,15880,068,Papuren,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OSHIGUCHI SYOTA,64266,001,Anan,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+PAPPALARDO VINCENZO,95272,020,Gojushiho Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOTO RYUJI,37096,060,Nijushiho,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+BARDOS ADAM,15880,008,Chatanyara Kushanku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+PEREZ DE ABREU RICARDO,54180,064,Ohan Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+ABE SAKICHI,32502,001,Anan,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MIJAC VLADIMIR,4458,020,Gojushiho Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+GHINAMI ALESSIO,25541,021,Gojushiho Sho,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+ABE SAKICHI,32502,063,Ohan,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MIJAC VLADIMIR,4458,099,Unsu,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+PEREZ DE ABREU RICARDO,54180,002,Anan Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+GHINAMI ALESSIO,25541,041,Kanku Sho,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+PEREZ DE ABREU RICARDO,54180,092,Suparinpei,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MIJAC VLADIMIR,4458,021,Gojushiho Sho,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+ABE SAKICHI,32502,064,Ohan Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+GHINAMI ALESSIO,25541,015,Gankaku,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOSCATELLI SAMUELE,32145,091,Sochin,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+IKEDA RYUSEI,50745,001,Anan,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+ELGHOBASHY MOSTAFA,62595,099,Unsu,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MARTIN ROMERO RAUL,11827,019,Gojushiho,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+IKEDA RYUSEI,50745,002,Anan Dai,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+ELGHOBASHY MOSTAFA,62595,020,Gojushiho Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOSCATELLI SAMUELE,32145,021,Gojushiho Sho,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MARTIN ROMERO RAUL,11827,092,Suparinpei,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOSCATELLI SAMUELE,32145,020,Gojushiho Dai,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+ELGHOBASHY MOSTAFA,62595,091,Sochin,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+IKEDA RYUSEI,50745,064,Ohan Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MARTIN ROMERO RAUL,11827,009,Chibana No Kushanku,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+KEN OKAMOTO,97868,012,Enpi,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MATEUS VASCO,81319,068,Papuren,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+COMANESCU PETRU,30835,041,Kanku Sho,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+TORRES GUTIERREZ ARIEL,3006,047,Kururunfa,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MATEUS VASCO,81319,043,Kishimoto No Kushanku,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+COMANESCU PETRU,30835,099,Unsu,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+KEN OKAMOTO,97868,099,Unsu,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+TORRES GUTIERREZ ARIEL,3006,002,Anan Dai,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+KEN OKAMOTO,97868,091,Sochin,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+COMANESCU PETRU,30835,091,Sochin,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MATEUS VASCO,81319,064,Ohan Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+TORRES GUTIERREZ ARIEL,3006,090,Shisochin,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OHATA KOTARO,70729,047,Kururunfa,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+TOZAKI TAISHI,43380,064,Ohan Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+AGOSTINI LUIS,54852,068,Papuren,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MACHIDA YASUHIRO,59454,067,Paiku,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+TOZAKI TAISHI,43380,002,Anan Dai,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+AGOSTINI LUIS,54852,092,Suparinpei,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OHATA KOTARO,70729,061,Nipaipo,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MACHIDA YASUHIRO,59454,092,Suparinpei,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OHATA KOTARO,70729,086,Seisan,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+AGOSTINI LUIS,54852,009,Chibana No Kushanku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+TOZAKI TAISHI,43380,068,Papuren,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MACHIDA YASUHIRO,59454,002,Anan Dai,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+KIKUCHI RYONOSUKE,37095,001,Anan,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+NETO ARTUR,61142,009,Chibana No Kushanku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOTO KAZUMASA,37253,021,Gojushiho Sho,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OZDEMIR ENES,15372,099,Unsu,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+NETO ARTUR,61142,002,Anan Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOTO KAZUMASA,37253,091,Sochin,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+KIKUCHI RYONOSUKE,37095,092,Suparinpei,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OZDEMIR ENES,15372,021,Gojushiho Sho,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+KIKUCHI RYONOSUKE,37095,002,Anan Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOTO KAZUMASA,37253,099,Unsu,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+NETO ARTUR,61142,008,Chatanyara Kushanku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OZDEMIR ENES,15372,091,Sochin,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+HRCKA ROMAN,26971,092,Suparinpei,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+VU ANTHONY,49944,009,Chibana No Kushanku,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+KAYNAR FURKAN,15382,015,Gankaku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+FUNADA AOI,37817,098,Unshu,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+VU ANTHONY,49944,068,Papuren,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+KAYNAR FURKAN,15382,099,Unsu,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+HRCKA ROMAN,26971,008,Chatanyara Kushanku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+FUNADA AOI,37817,068,Papuren,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+HRCKA ROMAN,26971,068,Papuren,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+KAYNAR FURKAN,15382,020,Gojushiho Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+VU ANTHONY,49944,092,Suparinpei,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+FUNADA AOI,37817,092,Suparinpei,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+DURAN KUTLUHAN,18920,020,Gojushiho Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+UJIHARA YUKI,19597,047,Kururunfa,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+PANAGIA GIUSEPPE,83346,021,Gojushiho Sho,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+NISHIYAMA KAKERU,32955,047,Kururunfa,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+UJIHARA YUKI,19597,092,Suparinpei,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+PANAGIA GIUSEPPE,83346,020,Gojushiho Dai,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+DURAN KUTLUHAN,18920,015,Gankaku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+NISHIYAMA KAKERU,32955,090,Shisochin,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+DURAN KUTLUHAN,18920,021,Gojushiho Sho,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+PANAGIA GIUSEPPE,83346,015,Gankaku,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+UJIHARA YUKI,19597,068,Papuren,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+NISHIYAMA KAKERU,32955,086,Seisan,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOTO RYUJI,37096,091,Sochin,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+GHINAMI ALESSIO,25541,099,Unsu,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MARTIN ROMERO RAUL,11827,048,Kusanku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+TORRES GUTIERREZ ARIEL,3006,064,Ohan Dai,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OHATA KOTARO,70729,092,Suparinpei,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MOTO KAZUMASA,37253,020,Gojushiho Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+FUNADA AOI,37817,008,Chatanyara Kushanku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+NISHIYAMA KAKERU,32955,068,Papuren,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+GHINAMI ALESSIO,25541,020,Gojushiho Dai,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+TORRES GUTIERREZ ARIEL,3006,092,Suparinpei,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OHATA KOTARO,70729,090,Shisochin,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+NISHIYAMA KAKERU,32955,092,Suparinpei,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+TORRES GUTIERREZ ARIEL,3006,092,Suparinpei,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+NISHIYAMA KAKERU,32955,009,Chibana No Kushanku,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+MARTIN ROMERO RAUL,11827,009,Chibana No Kushanku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+GHINAMI ALESSIO,25541,015,Gankaku,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+FUNADA AOI,37817,008,Chatanyara Kushanku,False,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html
+OHATA KOTARO,70729,092,Suparinpei,True,2026_03_k1_premier_rome,kata_male,2026_03_k1_premier_rome\kata_male.html

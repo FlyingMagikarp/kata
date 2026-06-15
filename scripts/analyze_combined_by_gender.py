@@ -1,3 +1,4 @@
+from datetime import datetime
 from pathlib import Path
 import pandas as pd
 
@@ -54,7 +55,8 @@ def load_all_parsed() -> pd.DataFrame:
 def main():
     df = load_all_parsed()
 
-    out_dir = ANALYSIS_DIR / "combined"
+    snapshot = datetime.now().strftime("%Y-%m")
+    out_dir = ANALYSIS_DIR / "combined" / snapshot
     out_dir.mkdir(parents=True, exist_ok=True)
 
     for gender, gender_df in df.groupby("gender"):

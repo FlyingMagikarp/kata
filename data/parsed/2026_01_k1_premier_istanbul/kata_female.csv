@@ -1,0 +1,115 @@
+player_name,player_id,kata_nr,kata_name,winner,tournament_id,category,source_file
+FABIAN CSENGE ZITA,15140,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ALFORTE SAKURA,73520,067,Paiku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+EDERAR MIRIAM,75195,092,Suparinpei,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+KHAMIS JANA1,53718,020,Gojushiho Dai,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ALFORTE SAKURA,73520,001,Anan,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+EDERAR MIRIAM,75195,002,Anan Dai,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+FABIAN CSENGE ZITA,15140,009,Chibana No Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+KHAMIS JANA1,53718,099,Unsu,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+FABIAN CSENGE ZITA,15140,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+EDERAR MIRIAM,75195,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ALFORTE SAKURA,73520,009,Chibana No Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+KHAMIS JANA1,53718,021,Gojushiho Sho,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+WONG SZE MAN,21077,047,Kururunfa,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SIEBERT RITA,43849,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+GARCIA LOZANO PAOLA,45712,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+MISHIMA KIRI,64406,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SIEBERT RITA,43849,002,Anan Dai,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+GARCIA LOZANO PAOLA,45712,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+WONG SZE MAN,21077,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+MISHIMA KIRI,64406,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+WONG SZE MAN,21077,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+GARCIA LOZANO PAOLA,45712,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SIEBERT RITA,43849,064,Ohan Dai,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+MISHIMA KIRI,64406,061,Nipaipo,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SHIMIZU NATSUKI,84044,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+D ONOFRIO TERRYANA,28822,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+FERNANDES NATACHA,27445,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+TUREMEN DAMLA SU,8246,020,Gojushiho Dai,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+D ONOFRIO TERRYANA,28822,047,Kururunfa,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+FERNANDES NATACHA,27445,092,Suparinpei,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SHIMIZU NATSUKI,84044,090,Shisochin,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+TUREMEN DAMLA SU,8246,099,Unsu,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SHIMIZU NATSUKI,84044,047,Kururunfa,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+FERNANDES NATACHA,27445,061,Nipaipo,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+D ONOFRIO TERRYANA,28822,009,Chibana No Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+TUREMEN DAMLA SU,8246,021,Gojushiho Sho,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+TAILY HELVETIA,47545,020,Gojushiho Dai,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ROVERSI ELENA,35091,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+COLAK KEYDA NUR,96349,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ONO MAHO,33525,061,Nipaipo,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ROVERSI ELENA,35091,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+COLAK KEYDA NUR,96349,008,Chatanyara Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+TAILY HELVETIA,47545,015,Gankaku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ONO MAHO,33525,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+TAILY HELVETIA,47545,099,Unsu,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+COLAK KEYDA NUR,96349,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ROVERSI ELENA,35091,092,Suparinpei,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ONO MAHO,33525,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+CASALE CAROLA,27089,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SADEGHI DASTAK FATEMEH,96269,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+MARQUES RITA,51420,047,Kururunfa,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+RAAFAT JANA,53716,020,Gojushiho Dai,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SADEGHI DASTAK FATEMEH,96269,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+MARQUES RITA,51420,064,Ohan Dai,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+CASALE CAROLA,27089,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+RAAFAT JANA,53716,021,Gojushiho Sho,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+CASALE CAROLA,27089,047,Kururunfa,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+MARQUES RITA,51420,092,Suparinpei,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SADEGHI DASTAK FATEMEH,96269,009,Chibana No Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+RAAFAT JANA,53716,099,Unsu,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+BLEUL JASMIN,1149,021,Gojushiho Sho,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+HISAMI NAKAJI,65523,008,Chatanyara Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+CRUZ ANA,17798,001,Anan,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LEHNER TAMARA,51700,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+HISAMI NAKAJI,65523,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+CRUZ ANA,17798,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+BLEUL JASMIN,1149,020,Gojushiho Dai,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LEHNER TAMARA,51700,009,Chibana No Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+BLEUL JASMIN,1149,092,Suparinpei,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+CRUZ ANA,17798,002,Anan Dai,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+HISAMI NAKAJI,65523,097,Tomari Bassai,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LEHNER TAMARA,51700,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+IWATANI AZUKI,72059,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LO SUM MAN,7183,068,Papuren,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+XENOU GEORGIA ARCHONTIA,35261,002,Anan Dai,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+EN-NESYRY AYA,10786,020,Gojushiho Dai,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LO SUM MAN,7183,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+XENOU GEORGIA ARCHONTIA,35261,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+IWATANI AZUKI,72059,008,Chatanyara Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+EN-NESYRY AYA,10786,021,Gojushiho Sho,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+IWATANI AZUKI,72059,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+XENOU GEORGIA ARCHONTIA,35261,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LO SUM MAN,7183,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+EN-NESYRY AYA,10786,015,Gankaku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+BUI MAI-LINH,29050,021,Gojushiho Sho,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+D ONOFRIO ORSOLA,23244,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+MANCA CHIARA,44604,009,Chibana No Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LAU MO SHEUNG GRACE,3561,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+D ONOFRIO ORSOLA,23244,008,Chatanyara Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+MANCA CHIARA,44604,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+BUI MAI-LINH,29050,015,Gankaku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LAU MO SHEUNG GRACE,3561,097,Tomari Bassai,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+BUI MAI-LINH,29050,020,Gojushiho Dai,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+MANCA CHIARA,44604,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+D ONOFRIO ORSOLA,23244,092,Suparinpei,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LAU MO SHEUNG GRACE,3561,098,Unshu,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+EDERAR MIRIAM,75195,064,Ohan Dai,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+GARCIA LOZANO PAOLA,45712,009,Chibana No Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SHIMIZU NATSUKI,84044,048,Kusanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ONO MAHO,33525,009,Chibana No Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+CASALE CAROLA,27089,009,Chibana No Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+HISAMI NAKAJI,65523,009,Chibana No Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+IWATANI AZUKI,72059,065,Oyadomari No Passai,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LAU MO SHEUNG GRACE,3561,009,Chibana No Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+GARCIA LOZANO PAOLA,45712,047,Kururunfa,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ONO MAHO,33525,008,Chatanyara Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+HISAMI NAKAJI,65523,092,Suparinpei,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LAU MO SHEUNG GRACE,3561,068,Papuren,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+ONO MAHO,33525,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+LAU MO SHEUNG GRACE,3561,008,Chatanyara Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+SHIMIZU NATSUKI,84044,092,Suparinpei,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+GARCIA LOZANO PAOLA,45712,008,Chatanyara Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+IWATANI AZUKI,72059,009,Chibana No Kushanku,True,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html
+HISAMI NAKAJI,65523,009,Chibana No Kushanku,False,2026_01_k1_premier_istanbul,kata_female,2026_01_k1_premier_istanbul\kata_female.html

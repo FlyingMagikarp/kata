@@ -1,0 +1,23 @@
+tournament_id,category,source_file,kata_name,performances,wins,unique_athletes,total_performances,usage_pct,win_rate
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Suparinpei,19,9,15,95,20.0,47.368421052631575
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Papuren,9,4,9,95,9.473684210526317,44.44444444444444
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Gojushiho Sho,8,6,7,95,8.421052631578947,75.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Anan Dai,7,4,7,95,7.368421052631578,57.14285714285714
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Unsu,6,1,6,95,6.315789473684211,16.666666666666664
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Gojushiho Dai,5,4,5,95,5.263157894736842,80.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Anan,5,2,5,95,5.263157894736842,40.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Ohan Dai,5,1,5,95,5.263157894736842,20.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Kururunfa,4,3,4,95,4.2105263157894735,75.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Sochin,4,3,4,95,4.2105263157894735,75.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Chibana No Kushanku,4,1,4,95,4.2105263157894735,25.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Chatanyara Kushanku,3,0,3,95,3.1578947368421053,0.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Gankaku,3,0,3,95,3.1578947368421053,0.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Nipaipo,2,2,2,95,2.1052631578947367,100.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Ohan,2,2,2,95,2.1052631578947367,100.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Unshu,2,1,2,95,2.1052631578947367,50.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Kanku Sho,2,0,2,95,2.1052631578947367,0.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Nijushiho,1,1,1,95,1.0526315789473684,100.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Paiku,1,1,1,95,1.0526315789473684,100.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Seisan,1,1,1,95,1.0526315789473684,100.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Shisochin,1,1,1,95,1.0526315789473684,100.0
+2026_04_k1_premier_leshan,kata_male,2026_04_k1_premier_leshan\kata_male.csv,Jitte,1,0,1,95,1.0526315789473684,0.0

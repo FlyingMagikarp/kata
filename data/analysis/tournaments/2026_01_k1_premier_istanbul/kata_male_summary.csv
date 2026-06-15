@@ -1,0 +1,25 @@
+tournament_id,category,source_file,kata_name,performances,wins,unique_athletes,total_performances,usage_pct,win_rate
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Gojushiho Sho,14,6,13,110,12.727272727272727,42.857142857142854
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Suparinpei,12,7,10,110,10.909090909090908,58.333333333333336
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Unsu,11,5,11,110,10.0,45.45454545454545
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Gojushiho Dai,9,5,9,110,8.181818181818182,55.55555555555556
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Papuren,8,3,8,110,7.2727272727272725,37.5
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Chibana No Kushanku,6,1,6,110,5.454545454545454,16.666666666666664
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Chatanyara Kushanku,6,0,6,110,5.454545454545454,0.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Anan,5,4,5,110,4.545454545454546,80.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Ohan Dai,5,1,5,110,4.545454545454546,20.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Seisan,4,4,3,110,3.6363636363636362,100.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Kururunfa,4,3,4,110,3.6363636363636362,75.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Sochin,4,2,3,110,3.6363636363636362,50.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Gankaku,4,1,4,110,3.6363636363636362,25.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Enpi,3,3,3,110,2.727272727272727,100.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Kanku Sho,3,2,3,110,2.727272727272727,66.66666666666666
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Anan Dai,2,1,1,110,1.8181818181818181,50.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Nipaipo,2,1,2,110,1.8181818181818181,50.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Ohan,2,1,2,110,1.8181818181818181,50.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Gojushiho,1,1,1,110,0.9090909090909091,100.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Kishimoto No Kushanku,1,1,1,110,0.9090909090909091,100.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Nijushiho,1,1,1,110,0.9090909090909091,100.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Paiku,1,1,1,110,0.9090909090909091,100.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Sanseiru,1,1,1,110,0.9090909090909091,100.0
+2026_01_k1_premier_istanbul,kata_male,2026_01_k1_premier_istanbul\kata_male.csv,Shisochin,1,1,1,110,0.9090909090909091,100.0
